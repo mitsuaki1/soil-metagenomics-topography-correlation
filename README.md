@@ -109,15 +109,7 @@ No server required — open `index.html` directly in your browser.
 
 ## ライセンス / License
 
-MIT License © 2026 [mitsulab](https://github.com/mitsulab)
-
----
-
-## 関連プロジェクト / Related Projects
-
-- 🌱 [醸す谷 / Vallis Fermenti](https://note.com/mitsulab) — 有機農業×有機土木×発酵の統合フレームワーク
-- 🧪 [Qualium](https://github.com/mitsulab/qualium) — 土壌生態系センシング・可視化システム
-- 📝 [note @mitsulab](https://note.com/mitsulab) — 実践記録・思想論考
+MIT License © 2026
 
 ---
 
